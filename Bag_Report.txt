@@ -1,0 +1,22 @@
+ID 
+Project 
+Issue Type 
+Reporter 
+Assignee 
+Affect version 
+Fix Version 
+Component 
+Status 
+Severity 
+Priority 
+Summery 
+Description 
+1. Preconditions 
+2. Steps to Reproduce
+3. Expected Result 
+4. Actual Result 
+Attachment 
+Issue(Epic)Links 
+Environment 
+Operation System 
+Browser 
