@@ -1,0 +1,9 @@
+Checklist structure:
+1. Build 
+2. Environment 
+3. Date 
+4. Browser 
+5. Summary 
+6. ID/Test Type
+7. Test Case(Checking)
+8. Result(Status)
