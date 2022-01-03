@@ -1,0 +1,170 @@
+​ [Report Only] Refused to connect to 'https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-127648023-1&cid=ab2d8732-f7ed-22d9-9fd9-643f96bea5a0&jid=517351253&gjid=1909285230&_gid=1583606957.1641161150&_u=aPDAAEADQAAAAG~&z=282121471' because it violates the following Content Security Policy directive: "connect-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: cdn.ampproject.org *.pusher.com capital.com platform.twitter.com www.google.de prod-news-images.s3.eu-west-1.amazonaws.com api.intotheblock.com *.facebook.com i.ytimg.com www.google.co.uk *.facebook.net mc.yandex.ru static.currency.com api.backend-capital.com top-fwz1.mail.ru mc.yandex.md mc.yandex.by payment.backend-capital.com api.backend.currency.com fonts.gstatic.com www.google.nl ekr.zdassets.com mdapi-http.backend-capital.com www.google.com *.googleapis.com mc.yandex.com www.googletagmanager.com test-edu-app.s3.amazonaws.com o306080.ingest.sentry.io surfe.pro public-markets.backend.currency.com app.intotheblock.com".
+
+wd @ VM1921 analytics.js:44
+pe @ VM1921 analytics.js:43
+oc @ VM1921 analytics.js:44
+Ea @ VM1921 analytics.js:44
+g.onreadystatechange @ VM1921 analytics.js:43
+XMLHttpRequest.send (async)
+wd @ VM1921 analytics.js:44
+pe @ VM1921 analytics.js:43
+Sa @ VM1921 analytics.js:48
+Ha.D @ VM1921 analytics.js:46
+pc.send @ VM1921 analytics.js:81
+X.b.<computed> @ VM1921 analytics.js:61
+Z.v @ VM1921 analytics.js:98
+Z.D @ VM1921 analytics.js:97
+N @ VM1921 analytics.js:98
+p @ gtm.js?id=GTM-TNH86Q8:251
+Mq @ gtm.js?id=GTM-TNH86Q8:255
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:255
+ai @ gtm.js?id=GTM-TNH86Q8:138
+oi @ gtm.js?id=GTM-TNH86Q8:141
+Nq @ gtm.js?id=GTM-TNH86Q8:255
+u @ gtm.js?id=GTM-TNH86Q8:368
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:375
+ai @ gtm.js?id=GTM-TNH86Q8:138
+oi @ gtm.js?id=GTM-TNH86Q8:141
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:375
+af @ gtm.js?id=GTM-TNH86Q8:103
+e @ gtm.js?id=GTM-TNH86Q8:219
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:61
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:220
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:220
+Nn @ gtm.js?id=GTM-TNH86Q8:220
+Wn @ gtm.js?id=GTM-TNH86Q8:224
+ss @ gtm.js?id=GTM-TNH86Q8:285
+us @ gtm.js?id=GTM-TNH86Q8:287
+a.push @ gtm.js?id=GTM-TNH86Q8:290
+a.push @ code.js:33
+a.push @ www.google-analytics…3937.1641161150:168
+a @ p_main.js?v=1.1.68:16
+checkVisible @ p_main.js?v=1.1.68:16
+(anonymous) @ p_main.js?v=1.1.68:16
+dispatch @ jquery.min.js:3
+r.handle @ jquery.min.js:3
+Show 12 more frames
+ru:1 [Report Only] Refused to load the image 'https://www.google.by/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j96&tid=UA-127648023-1&cid=ab2d8732-f7ed-22d9-9fd9-643f96bea5a0&jid=517351253&_u=aPDAAEADQAAAAG~&z=420383728' because it violates the following Content Security Policy directive: "img-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: mc.yandex.ru *.facebook.com www.google.ru mc.yandex.com www.google.com.mx www.google.de www.google.com.ua capital.com alb.reddit.com top-fwz1.mail.ru www.google.com.vn www.google.com.ph static.currency.com img.youtube.com www.google.co.uk *.facebook.net t.co i.ytimg.com fonts.gstatic.com www.google.com www.google.nl img.currency.com www.google.com.br mc.yandex.by prod-news-images.s3.eu-west-1.amazonaws.com www.google.com.ar www.google.co.id images-media.currency.com *.googleapis.com www.googletagmanager.com surfe.pro www.google.com.ng www.google.kz".
+
+gtm.js?id=GTM-TNH86Q8:69 [Report Only] Refused to load the script 'https://www.google-analytics.com/analytics.js' because it violates the following Content Security Policy directive: "script-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: vk.com widget.trustpilot.com *.googleadservices.com static.currency.com *.zendesk.com *.pusher.com cdnjs.cloudflare.com top-fwz1.mail.ru platform.twitter.com mc.yandex.com *.facebook.net www.gstatic.com *.doubleclick.net *.googleapis.com www.google.com mc.yandex.ru www.googletagmanager.com cdn.ampproject.org app.intotheblock.com". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+Yb @ gtm.js?id=GTM-TNH86Q8:69
+ac @ gtm.js?id=GTM-TNH86Q8:70
+R @ gtm.js?id=GTM-TNH86Q8:293
+u @ gtm.js?id=GTM-TNH86Q8:388
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:389
+ai @ gtm.js?id=GTM-TNH86Q8:138
+oi @ gtm.js?id=GTM-TNH86Q8:141
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:389
+af @ gtm.js?id=GTM-TNH86Q8:103
+e @ gtm.js?id=GTM-TNH86Q8:219
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:61
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:220
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:220
+Nn @ gtm.js?id=GTM-TNH86Q8:220
+Wn @ gtm.js?id=GTM-TNH86Q8:224
+ss @ gtm.js?id=GTM-TNH86Q8:285
+us @ gtm.js?id=GTM-TNH86Q8:287
+vs @ gtm.js?id=GTM-TNH86Q8:288
+setTimeout (async)
+I @ gtm.js?id=GTM-TNH86Q8:71
+xs @ gtm.js?id=GTM-TNH86Q8:291
+kA @ gtm.js?id=GTM-TNH86Q8:422
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:426
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:426
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:428
+gtm.js?id=GTM-TNH86Q8:69 [Report Only] Refused to load the script 'https://www.google-analytics.com/analytics.js' because it violates the following Content Security Policy directive: "script-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: vk.com widget.trustpilot.com *.googleadservices.com static.currency.com *.zendesk.com *.pusher.com cdnjs.cloudflare.com top-fwz1.mail.ru platform.twitter.com mc.yandex.com *.facebook.net www.gstatic.com *.doubleclick.net *.googleapis.com www.google.com mc.yandex.ru www.googletagmanager.com cdn.ampproject.org app.intotheblock.com". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+Yb @ gtm.js?id=GTM-TNH86Q8:69
+ac @ gtm.js?id=GTM-TNH86Q8:70
+R @ gtm.js?id=GTM-TNH86Q8:293
+u @ gtm.js?id=GTM-TNH86Q8:374
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:375
+ai @ gtm.js?id=GTM-TNH86Q8:138
+oi @ gtm.js?id=GTM-TNH86Q8:141
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:375
+af @ gtm.js?id=GTM-TNH86Q8:103
+e @ gtm.js?id=GTM-TNH86Q8:219
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:61
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:220
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:220
+Nn @ gtm.js?id=GTM-TNH86Q8:220
+Wn @ gtm.js?id=GTM-TNH86Q8:224
+ss @ gtm.js?id=GTM-TNH86Q8:285
+us @ gtm.js?id=GTM-TNH86Q8:287
+vs @ gtm.js?id=GTM-TNH86Q8:288
+setTimeout (async)
+I @ gtm.js?id=GTM-TNH86Q8:71
+xs @ gtm.js?id=GTM-TNH86Q8:291
+kA @ gtm.js?id=GTM-TNH86Q8:422
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:426
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:426
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:428
+[Report Only] Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: cdn.ampproject.org *.pusher.com capital.com platform.twitter.com <URL> prod-news-images.s3.eu-west-1.amazonaws.com api.intotheblock.com *.facebook.com i.ytimg.com <URL> *.facebook.net mc.yandex.ru static.currency.com api.backend-capital.com top-fwz1.mail.ru mc.yandex.md mc.yandex.by payment.backend-capital.com api.backend.currency.com fonts.gstatic.com <URL> ekr.zdassets.com mdapi-http.backend-capital.com <URL> *.googleapis.com mc.yandex.com <URL> test-edu-app.s3.amazonaws.com o306080.ingest.sentry.io surfe.pro public-markets.backend.currency.com app.intotheblock.com".
+
+[Report Only] Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: cdn.ampproject.org *.pusher.com capital.com platform.twitter.com <URL> prod-news-images.s3.eu-west-1.amazonaws.com api.intotheblock.com *.facebook.com i.ytimg.com <URL> *.facebook.net mc.yandex.ru static.currency.com api.backend-capital.com top-fwz1.mail.ru mc.yandex.md mc.yandex.by payment.backend-capital.com api.backend.currency.com fonts.gstatic.com <URL> ekr.zdassets.com mdapi-http.backend-capital.com <URL> *.googleapis.com mc.yandex.com <URL> test-edu-app.s3.amazonaws.com o306080.ingest.sentry.io surfe.pro public-markets.backend.currency.com app.intotheblock.com".
+
+[Report Only] Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: cdn.ampproject.org *.pusher.com capital.com platform.twitter.com <URL> prod-news-images.s3.eu-west-1.amazonaws.com api.intotheblock.com *.facebook.com i.ytimg.com <URL> *.facebook.net mc.yandex.ru static.currency.com api.backend-capital.com top-fwz1.mail.ru mc.yandex.md mc.yandex.by payment.backend-capital.com api.backend.currency.com fonts.gstatic.com <URL> ekr.zdassets.com mdapi-http.backend-capital.com <URL> *.googleapis.com mc.yandex.com <URL> test-edu-app.s3.amazonaws.com o306080.ingest.sentry.io surfe.pro public-markets.backend.currency.com app.intotheblock.com".
+
+[Report Only] Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: cdn.ampproject.org *.pusher.com capital.com platform.twitter.com <URL> prod-news-images.s3.eu-west-1.amazonaws.com api.intotheblock.com *.facebook.com i.ytimg.com <URL> *.facebook.net mc.yandex.ru static.currency.com api.backend-capital.com top-fwz1.mail.ru mc.yandex.md mc.yandex.by payment.backend-capital.com api.backend.currency.com fonts.gstatic.com <URL> ekr.zdassets.com mdapi-http.backend-capital.com <URL> *.googleapis.com mc.yandex.com <URL> test-edu-app.s3.amazonaws.com o306080.ingest.sentry.io surfe.pro public-markets.backend.currency.com app.intotheblock.com".
+
+[Report Only] Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: cdn.ampproject.org *.pusher.com capital.com platform.twitter.com <URL> prod-news-images.s3.eu-west-1.amazonaws.com api.intotheblock.com *.facebook.com i.ytimg.com <URL> *.facebook.net mc.yandex.ru static.currency.com api.backend-capital.com top-fwz1.mail.ru mc.yandex.md mc.yandex.by payment.backend-capital.com api.backend.currency.com fonts.gstatic.com <URL> ekr.zdassets.com mdapi-http.backend-capital.com <URL> *.googleapis.com mc.yandex.com <URL> test-edu-app.s3.amazonaws.com o306080.ingest.sentry.io surfe.pro public-markets.backend.currency.com app.intotheblock.com".
+
+VM1903:1 GET https://connect.facebook.net/en_US/fbevents.js net::ERR_BLOCKED_BY_CLIENT
+(anonymous) @ VM1903:1
+(anonymous) @ VM1903:1
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:403
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:404
+c @ gtm.js?id=GTM-TNH86Q8:405
+af @ gtm.js?id=GTM-TNH86Q8:103
+e @ gtm.js?id=GTM-TNH86Q8:219
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:61
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:220
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:220
+Nn @ gtm.js?id=GTM-TNH86Q8:220
+Wn @ gtm.js?id=GTM-TNH86Q8:224
+ss @ gtm.js?id=GTM-TNH86Q8:285
+us @ gtm.js?id=GTM-TNH86Q8:287
+vs @ gtm.js?id=GTM-TNH86Q8:288
+setTimeout (async)
+I @ gtm.js?id=GTM-TNH86Q8:71
+xs @ gtm.js?id=GTM-TNH86Q8:291
+kA @ gtm.js?id=GTM-TNH86Q8:422
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:426
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:426
+(anonymous) @ gtm.js?id=GTM-TNH86Q8:428
+VM1921 analytics.js:33 [Report Only] Refused to load the script 'https://www.google-analytics.com/gtm/js?id=GTM-M8S94R8&t=gtm4&cid=ab2d8732-f7ed-22d9-9fd9-643f96bea5a0&gac=_gaexp%3DGAX1.2.sVlXEVf3Rpi2O57jBqp65w.19061.0!B-q3dx8FTUaIaYTuuA07jw.19084.0' because it violates the following Content Security Policy directive: "script-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: vk.com widget.trustpilot.com *.googleadservices.com static.currency.com *.zendesk.com *.pusher.com cdnjs.cloudflare.com top-fwz1.mail.ru platform.twitter.com mc.yandex.com *.facebook.net www.gstatic.com *.doubleclick.net *.googleapis.com www.google.com mc.yandex.ru www.googletagmanager.com cdn.ampproject.org app.intotheblock.com". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+Id @ VM1921 analytics.js:33
+y @ VM1921 analytics.js:94
+Z.v @ VM1921 analytics.js:98
+Z.D @ VM1921 analytics.js:97
+N.N @ VM1921 analytics.js:100
+(anonymous) @ VM1921 analytics.js:100
+(anonymous) @ VM1921 analytics.js:100
+[Report Only] Refused to load the image '<URL>' because it violates the following Content Security Policy directive: "img-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: mc.yandex.ru *.facebook.com <URL> mc.yandex.com <URL> <URL> <URL> capital.com alb.reddit.com top-fwz1.mail.ru <URL> <URL> static.currency.com img.youtube.com <URL> *.facebook.net t.co i.ytimg.com fonts.gstatic.com <URL> <URL> img.currency.com <URL> mc.yandex.by prod-news-images.s3.eu-west-1.amazonaws.com <URL> <URL> images-media.currency.com *.googleapis.com <URL> surfe.pro <URL> <URL>".
+
+[Report Only] Refused to load the image '<URL>' because it violates the following Content Security Policy directive: "img-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: mc.yandex.ru *.facebook.com <URL> mc.yandex.com <URL> <URL> <URL> capital.com alb.reddit.com top-fwz1.mail.ru <URL> <URL> static.currency.com img.youtube.com <URL> *.facebook.net t.co i.ytimg.com fonts.gstatic.com <URL> <URL> img.currency.com <URL> mc.yandex.by prod-news-images.s3.eu-west-1.amazonaws.com <URL> <URL> images-media.currency.com *.googleapis.com <URL> surfe.pro <URL> <URL>".
+
+[Report Only] Refused to load the image '<URL>' because it violates the following Content Security Policy directive: "img-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: mc.yandex.ru *.facebook.com <URL> mc.yandex.com <URL> <URL> <URL> capital.com alb.reddit.com top-fwz1.mail.ru <URL> <URL> static.currency.com img.youtube.com <URL> *.facebook.net t.co i.ytimg.com fonts.gstatic.com <URL> <URL> img.currency.com <URL> mc.yandex.by prod-news-images.s3.eu-west-1.amazonaws.com <URL> <URL> images-media.currency.com *.googleapis.com <URL> surfe.pro <URL> <URL>".
+
+[Report Only] Refused to load the image '<URL>' because it violates the following Content Security Policy directive: "img-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: mc.yandex.ru *.facebook.com <URL> mc.yandex.com <URL> <URL> <URL> capital.com alb.reddit.com top-fwz1.mail.ru <URL> <URL> static.currency.com img.youtube.com <URL> *.facebook.net t.co i.ytimg.com fonts.gstatic.com <URL> <URL> img.currency.com <URL> mc.yandex.by prod-news-images.s3.eu-west-1.amazonaws.com <URL> <URL> images-media.currency.com *.googleapis.com <URL> surfe.pro <URL> <URL>".
+
+[Report Only] Refused to load the image '<URL>' because it violates the following Content Security Policy directive: "img-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: mc.yandex.ru *.facebook.com <URL> mc.yandex.com <URL> <URL> <URL> capital.com alb.reddit.com top-fwz1.mail.ru <URL> <URL> static.currency.com img.youtube.com <URL> *.facebook.net t.co i.ytimg.com fonts.gstatic.com <URL> <URL> img.currency.com <URL> mc.yandex.by prod-news-images.s3.eu-west-1.amazonaws.com <URL> <URL> images-media.currency.com *.googleapis.com <URL> surfe.pro <URL> <URL>".
+
+[Report Only] Refused to load the image '<URL>' because it violates the following Content Security Policy directive: "img-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: mc.yandex.ru *.facebook.com <URL> mc.yandex.com <URL> <URL> <URL> capital.com alb.reddit.com top-fwz1.mail.ru <URL> <URL> static.currency.com img.youtube.com <URL> *.facebook.net t.co i.ytimg.com fonts.gstatic.com <URL> <URL> img.currency.com <URL> mc.yandex.by prod-news-images.s3.eu-west-1.amazonaws.com <URL> <URL> images-media.currency.com *.googleapis.com <URL> surfe.pro <URL> <URL>".
+
+[Report Only] Refused to load the image '<URL>' because it violates the following Content Security Policy directive: "img-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: mc.yandex.ru *.facebook.com <URL> mc.yandex.com <URL> <URL> <URL> capital.com alb.reddit.com top-fwz1.mail.ru <URL> <URL> static.currency.com img.youtube.com <URL> *.facebook.net t.co i.ytimg.com fonts.gstatic.com <URL> <URL> img.currency.com <URL> mc.yandex.by prod-news-images.s3.eu-west-1.amazonaws.com <URL> <URL> images-media.currency.com *.googleapis.com <URL> surfe.pro <URL> <URL>".
+
+[Report Only] Refused to load the image '<URL>' because it violates the following Content Security Policy directive: "img-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: mc.yandex.ru *.facebook.com <URL> mc.yandex.com <URL> <URL> <URL> capital.com alb.reddit.com top-fwz1.mail.ru <URL> <URL> static.currency.com img.youtube.com <URL> *.facebook.net t.co i.ytimg.com fonts.gstatic.com <URL> <URL> img.currency.com <URL> mc.yandex.by prod-news-images.s3.eu-west-1.amazonaws.com <URL> <URL> images-media.currency.com *.googleapis.com <URL> surfe.pro <URL> <URL>".
+
+[Report Only] Refused to load the image '<URL>' because it violates the following Content Security Policy directive: "img-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: mc.yandex.ru *.facebook.com <URL> mc.yandex.com <URL> <URL> <URL> capital.com alb.reddit.com top-fwz1.mail.ru <URL> <URL> static.currency.com img.youtube.com <URL> *.facebook.net t.co i.ytimg.com fonts.gstatic.com <URL> <URL> img.currency.com <URL> mc.yandex.by prod-news-images.s3.eu-west-1.amazonaws.com <URL> <URL> images-media.currency.com *.googleapis.com <URL> surfe.pro <URL> <URL>".
+
+[Report Only] Refused to load the image '<URL>' because it violates the following Content Security Policy directive: "img-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: mc.yandex.ru *.facebook.com <URL> mc.yandex.com <URL> <URL> <URL> capital.com alb.reddit.com top-fwz1.mail.ru <URL> <URL> static.currency.com img.youtube.com <URL> *.facebook.net t.co i.ytimg.com fonts.gstatic.com <URL> <URL> img.currency.com <URL> mc.yandex.by prod-news-images.s3.eu-west-1.amazonaws.com <URL> <URL> images-media.currency.com *.googleapis.com <URL> surfe.pro <URL> <URL>".
+
+[Report Only] Refused to load the image '<URL>' because it violates the following Content Security Policy directive: "img-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: mc.yandex.ru *.facebook.com <URL> mc.yandex.com <URL> <URL> <URL> capital.com alb.reddit.com top-fwz1.mail.ru <URL> <URL> static.currency.com img.youtube.com <URL> *.facebook.net t.co i.ytimg.com fonts.gstatic.com <URL> <URL> img.currency.com <URL> mc.yandex.by prod-news-images.s3.eu-west-1.amazonaws.com <URL> <URL> images-media.currency.com *.googleapis.com <URL> surfe.pro <URL> <URL>".
+
+[Report Only] Refused to load the image '<URL>' because it violates the following Content Security Policy directive: "img-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: mc.yandex.ru *.facebook.com <URL> mc.yandex.com <URL> <URL> <URL> capital.com alb.reddit.com top-fwz1.mail.ru <URL> <URL> static.currency.com img.youtube.com <URL> *.facebook.net t.co i.ytimg.com fonts.gstatic.com <URL> <URL> img.currency.com <URL> mc.yandex.by prod-news-images.s3.eu-west-1.amazonaws.com <URL> <URL> images-media.currency.com *.googleapis.com <URL> surfe.pro <URL> <URL>".
+
+[Report Only] Refused to load the image '<URL>' because it violates the following Content Security Policy directive: "img-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: mc.yandex.ru *.facebook.com <URL> mc.yandex.com <URL> <URL> <URL> capital.com alb.reddit.com top-fwz1.mail.ru <URL> <URL> static.currency.com img.youtube.com <URL> *.facebook.net t.co i.ytimg.com fonts.gstatic.com <URL> <URL> img.currency.com <URL> mc.yandex.by prod-news-images.s3.eu-west-1.amazonaws.com <URL> <URL> images-media.currency.com *.googleapis.com <URL> surfe.pro <URL> <URL>".
+
