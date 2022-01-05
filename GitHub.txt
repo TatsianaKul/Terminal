@@ -1,4 +1,4 @@
-1. На локальном репозитории сделать ветки для:
+п»ї1. РќР° Р»РѕРєР°Р»СЊРЅРѕРј СЂРµРїРѕР·РёС‚РѕСЂРёРё СЃРґРµР»Р°С‚СЊ РІРµС‚РєРё РґР»СЏ:
 - Postman - git branch Postman
 - Jmeter- git branch Jmeter
 - CheckLists - git branch CheckLists
@@ -7,25 +7,25 @@
 - Charles - git branch Charles
 - Mobile testing - git branch Mobile testing
 
-2. Запушить все ветки на внешний репозиторий
+2. Р—Р°РїСѓС€РёС‚СЊ РІСЃРµ РІРµС‚РєРё РЅР° РІРЅРµС€РЅРёР№ СЂРµРїРѕР·РёС‚РѕСЂРёР№
 git push origin --all
-3. В ветке Bug_Reports сделать текстовый документ со структурой баг репорта
+3. Р’ РІРµС‚РєРµ Bug_Reports СЃРґРµР»Р°С‚СЊ С‚РµРєСЃС‚РѕРІС‹Р№ РґРѕРєСѓРјРµРЅС‚ СЃРѕ СЃС‚СЂСѓРєС‚СѓСЂРѕР№ Р±Р°Рі СЂРµРїРѕСЂС‚Р°
 git checkout Bug_Reports ; touch Bug_Report.txt
-4. Запушить структуру багрепорта на внешний репозиторий
+4. Р—Р°РїСѓС€РёС‚СЊ СЃС‚СЂСѓРєС‚СѓСЂСѓ Р±Р°РіСЂРµРїРѕСЂС‚Р° РЅР° РІРЅРµС€РЅРёР№ СЂРµРїРѕР·РёС‚РѕСЂРёР№
 git add .
 git commit -m"Rename Bug_Report.txt file"
 git push --set-upsteam origin Bug_Reports 
-5. Вмержить ветку Bag Reports в Main
+5. Р’РјРµСЂР¶РёС‚СЊ РІРµС‚РєСѓ Bag Reports РІ Main
 git checkout main 
 git merge Bug_Reports
-6. Запушить main на внешний репозиторий.
+6. Р—Р°РїСѓС€РёС‚СЊ main РЅР° РІРЅРµС€РЅРёР№ СЂРµРїРѕР·РёС‚РѕСЂРёР№.
 git push
-7. В ветке CheckLists набросать структуру чек листа.
+7. Р’ РІРµС‚РєРµ CheckLists РЅР°Р±СЂРѕСЃР°С‚СЊ СЃС‚СЂСѓРєС‚СѓСЂСѓ С‡РµРє Р»РёСЃС‚Р°.
 touch Checklist_1.txt 
-8. Запушить структуру на внешний репозиторий
+8. Р—Р°РїСѓС€РёС‚СЊ СЃС‚СЂСѓРєС‚СѓСЂСѓ РЅР° РІРЅРµС€РЅРёР№ СЂРµРїРѕР·РёС‚РѕСЂРёР№
 git add .
 git commit -m"Create Checklist Structure"
 git push --set-upsteam origin Checklists 
-9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
-10. Синхронизировать Внешнюю и Локальную ветки Main
+9. РќР° РІРЅРµС€РЅРµРј СЂРµРїРѕР·РёС‚РѕСЂРёРё СЃРґРµР»Р°С‚СЊ Pull Request РІРµС‚РєРё CheckLists РІ main
+10. РЎРёРЅС…СЂРѕРЅРёР·РёСЂРѕРІР°С‚СЊ Р’РЅРµС€РЅСЋСЋ Рё Р›РѕРєР°Р»СЊРЅСѓСЋ РІРµС‚РєРё Main
 git pull
